@@ -1,0 +1,29 @@
+body{
+background-size: cover;
+background-position: center;
+}
+
+.heading
+{
+    color: rgb(65, 225, 78);
+font-size: 23px;
+font-family: 'Gluten', cursive;
+
+margin-top:10px;
+}
+
+#status
+{
+    color: rgb(65, 225, 78);
+font-size: 23px;
+font-family: 'Gluten', cursive;
+font-size: 18px;
+}
+
+canvas{
+    border-color: lightcoral;
+    border-width: 7px;
+    box-shadow: 10px 10px 10px lemonchiffon;
+    border-radius: 10px;
+    border-style: double dashed dotted solid;
+}
